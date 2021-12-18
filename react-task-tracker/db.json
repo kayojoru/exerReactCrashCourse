@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Complete Course Review",
+      "day": "December 18th at 11:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Complete 6701 Final Exam",
+      "day": "December 17th at 11:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Submit React JS Assignment Redo",
+      "day": "December 17th at 11:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Review Schedule for Fall 2022",
+      "day": "January 1st at 12:00pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
